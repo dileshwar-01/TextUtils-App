@@ -13,7 +13,8 @@ TextUtils is a simple yet powerful React-based text utility application designed
 🌗 Dark/Light Mode: Toggle between themes for comfortable viewing.
 
 🚀 Try It Out
-<a>https://textutils-by-d.netlify.app/</a>
+<a href="https://textutils-by-d.netlify.app/" target="_blank" rel="noopener noreferrer">🚀 Try It Out</a>
+
 
 🛠️ Built With
 ⚛️ React.js
