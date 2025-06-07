@@ -19,4 +19,4 @@ TextUtils is a simple yet powerful React-based text utility application designed
 🛠️ Built With
 ⚛️ React.js
 
-🎨 Bootstrap (or specify Tailwind CSS/your preferred framework)
+🎨 Bootstrap 
